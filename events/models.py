@@ -62,5 +62,6 @@ class Event(models.Model):
     # updated_at
     # is_published
     # created_by
+    # updated_by
     # is_approved
     # approved_by
