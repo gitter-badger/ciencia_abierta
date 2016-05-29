@@ -1,0 +1,6 @@
+# Framework
+Django==1.9.6
+
+# Libs
+
+# Django-specific libraries
